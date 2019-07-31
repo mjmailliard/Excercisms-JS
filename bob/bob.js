@@ -1,8 +1,6 @@
 export const hey = (message) => {
-
     
    const messageTrim = message.trim()
-
   
    if (messageTrim === '')  
         return 'Fine. Be that way!'

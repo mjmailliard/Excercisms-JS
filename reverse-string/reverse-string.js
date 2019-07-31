@@ -12,9 +12,6 @@ export const reverseString = (string) => {
                 console.log(string)
         return string
         }
-// console.log(string)
     }
-
-
 
 reverseString()
