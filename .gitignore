@@ -11,3 +11,9 @@ resistor-color-duo/node_modules
 phone-number/node_modules
 gigasecond/node_modules
 pangram/node_modules
+matrix/node_modules
+wordy/node_modules
+Desktop
+.vscode
+.gitignore
+collatz-conjecture/node_modules
