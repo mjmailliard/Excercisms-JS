@@ -18,3 +18,4 @@ Desktop
 .gitignore
 collatz-conjecture/node_modules
 dnd-character/node_modules
+grade-school/node_modules

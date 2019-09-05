@@ -1,1 +1,3 @@
-export const isPangram = (string) => ([...new Set(string.toLowerCase())].sort().join('').trim().replace(/[^a-z]/g,'').length) === 26 ? true : false;
+export const isPangram = 
+(string) => ([...new Set(string.toLowerCase())]
+.join('').replace(/[^a-z]/g,'').length) === 26 ? true : false;
